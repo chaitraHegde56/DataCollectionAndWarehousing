@@ -1,0 +1,6 @@
+# Configurations/Credentials for accessing the RiskFusion MySQL database
+mysql_creds:
+   host: localhost
+   user: root
+   password: root
+   database: books_toscrape
